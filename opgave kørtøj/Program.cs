@@ -5,7 +5,7 @@ using System;
 
 class Program
 {
-    // This is my master branch
+    // This is my opgave branch
     static void Main(string[] args)
     {
         Person elev = new Elev("Elev Navn");
